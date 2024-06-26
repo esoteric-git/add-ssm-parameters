@@ -1,0 +1,7 @@
+[
+    {
+      "Name": "/twitter/your_account_name/access_token",
+      "Value": "your_access_token",
+      "Type": "SecureString"
+    }
+  ]
